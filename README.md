@@ -26,7 +26,7 @@ If the app is open when the beacon is received for the first time, a new page wi
 
 
 
-tags to search
-open activity with beacon signal
-scan beacon
-scan and open activity in background
+<h3>Tags to search</h3>
+open activity with beacon signal <br/>
+scan beacon<br/>
+scan and open activity in background<br/>
