@@ -23,3 +23,10 @@ If the app is open when the beacon is received for the first time, a new page wi
 3. once a beacon is found and the app is in the background one notification will be triggered.
 4. if the app is in the foreground then the webview screen will be opened.
 5. or on click of notification, the Web-view screen will open.
+
+
+
+tags to search
+open activity with beacon signal
+scan beacon
+scan and open activity in background
